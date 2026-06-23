@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋, I'm Tanishq
 
-<!--
-**tanishqkhobragade2005-ai/tanishqkhobragade2005-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student
 
-Here are some ideas to get you started:
+💻 Currently Learning
+- C++
+- Python
+- SQL
+- Data Structures & Algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Goals
+- Become a Software Developer
+- Build Real-World Projects
+- Improve Problem Solving Skills
+
+## Skills
+- C++
+- Python
+- SQL
+- Git & GitHub
+
+## Connect With Me
+- GitHub: https://github.com/tanishqkhobragade2005-ai
