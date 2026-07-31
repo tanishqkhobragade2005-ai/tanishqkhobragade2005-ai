@@ -25,5 +25,3 @@ To become a Software Developer and build impactful software projects.
 - Building Projects
 - Practicing DSA
 
-## Connect With Me
-- GitHub: https://github.com/tanishqkhobragade2005-ai
